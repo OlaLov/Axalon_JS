@@ -8,3 +8,4 @@ Mål:
  2. Se till så vi har koll på de lösningar vi skapar, var de är, Vem som byggt dem, vilken teknik som använts, vad de gör.
  3. Ha en enhetligthet som gör att vilken utvecklare som helst på Axalon ska kunna hitta, förstå och vidareutveckla/korrigera den kod som en annan utvecklare har skrivit.
  4. Föräkra oss om att en Axalon-lösning är en proffesionell lösning av hög kvalitet.
+ 5. Bestämma hur vi sköter vår kompetensutveckling.
